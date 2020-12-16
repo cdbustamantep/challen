@@ -1,2 +1,2 @@
 echo "hellotutuvdfxfsfgvsnghnfgdfasdvvghdnfghxzggfhdvsd"
-echo "hellotutufdg48bgnbmvnmvbnmbvnmvvfsgnhbfdgbdavzcxcvzxbvbsdfgfnfdghdf"
+echo "hellotutufdg48bdavzcxcvzxbvbsdfgfnfdghdf"
